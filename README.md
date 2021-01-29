@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Carlos Baietti</h1>
 <h3 align="center">I am studying web page development</h3>
 
