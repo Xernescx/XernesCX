@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xernescx&label=Profile%20views&color=0e75b6&style=flat" alt="xernescx" /> </p>
 
-  - 🌱 I’m currently learning **React, CakePHP and Spring**
+  - 🌱 I’m currently learning **React, Angular and CakePHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xernescx](https://github.com/Xernescx)
 
